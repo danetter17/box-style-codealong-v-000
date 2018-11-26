@@ -149,7 +149,7 @@ header {
 
 /*////////// NAVBAR //////////*/
 
-navbar {
+#navbar {
   position: fixed;
   top: 0;
   left: 0;
@@ -159,8 +159,12 @@ navbar {
   text-align: center;
 }
 
-navbar nav {
-  border-left: ;
+#navbar nav {
+  border-left: 1px solid #ccc;
+}
+
+#navbar nav a {
+  
 }
 /*////////// LOGO //////////*/
 
