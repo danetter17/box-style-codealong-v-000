@@ -175,6 +175,10 @@ header {
   text-decoration: none;
   font: 1em "Trabuchet MS" Arial, sans-serif;
 }
+
+#navbar nav a.selected {
+  
+}
 /*////////// LOGO //////////*/
 
 
